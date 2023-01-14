@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+}
+
+.logo_text {
+    color: #444BAB;
+    font-size: 32px;
+}
+
+.links {
+    color: #4F516B ;
+}
